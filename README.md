@@ -1,4 +1,6 @@
 # Favour App
+App that will allow users to post quests or look for quests in their area.
+
 
 ## Team
 [Ivan](https://github.com/IvanYasinski)
@@ -9,4 +11,5 @@
 
 [Rob](https://github.com/robertjparle)
 
+## Wireframe
 ![sketches from brainstorming](https://raw.githubusercontent.com/TuesdaysDev/Favor/master/designs/favour%20process%20mockup.bmpr.png)
