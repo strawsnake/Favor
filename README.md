@@ -1,4 +1,4 @@
-# Favour App
+# Four/Favour/Flavour Quaver
 App that will allow users to post quests or look for quests in their area.
 
 
